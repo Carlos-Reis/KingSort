@@ -6,4 +6,3 @@ C:\Users\carlo\source\repos\KingSort\KingSort\obj\Debug\netcoreapp3.1\KingSort.A
 C:\Users\carlo\source\repos\KingSort\KingSort\obj\Debug\netcoreapp3.1\KingSort.csproj.CoreCompileInputs.cache
 C:\Users\carlo\source\repos\KingSort\KingSort\obj\Debug\netcoreapp3.1\KingSort.dll
 C:\Users\carlo\source\repos\KingSort\KingSort\obj\Debug\netcoreapp3.1\KingSort.pdb
-C:\Users\carlo\source\repos\KingSort\KingSort\obj\Debug\netcoreapp3.1\KingSort.csprojAssemblyReference.cache
